@@ -1,0 +1,26 @@
+Project Name: Smart Academical Portal
+How to run this Project
+
+
+Database Configuration
+
+Import database (smart-academical-portal)
+
+For User
+
+Open Your browser put inside browser “localhost/Smart Academical Portal”
+
+
+
+Student name : Aman ali 
+
+
+Roll id--10861
+Student Class: BSEM(C)
+
+For Admin Panel
+
+Open Your browser put inside browser “localhost/Smart Academical Portal”
+Login Details for admin : Admin/Aman@123
+Login Details for admin : Aman/Aman@1234
+
